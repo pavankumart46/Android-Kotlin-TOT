@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Change Font</string>
+    <string name="long_text">Hello Everyone, My Name is Pavan Kumar. In this example, I\'m gonna teach you how to change the font-family using android studio.</string>
+</resources>
