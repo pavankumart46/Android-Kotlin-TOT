@@ -1,3 +1,5 @@
+06-04-2020:
+
 Please do the following assignments
 
 For Dice Roller, Create two dices with the feature to roll them at once. Both the dices should show a value of their own. 
@@ -9,3 +11,6 @@ Submit all your assignments keeping them in the github account.
 Share the links to your repositories in the form shared to you. 
 
 Thanks
+
+07-04-2020 :
+Please add DataBinding Concept to DiceRoller App. Also, Populate data using data-variables and data-class.

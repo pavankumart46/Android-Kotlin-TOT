@@ -1,0 +1,13 @@
+Calling findViewById() for every view that we want to connect with is inefficient. We will access the app data directly from XML. 
+
+Data Binding :
+An Object that contains the references to each view is called binding object. This process is called data binding.
+
+Benefits:
+-  Code becomes shorter. 
+- Code becomes easier to read, easier to understand and maintain.
+- Data & Views are seperated clearly.
+- the android system only traverses the view hierarcy only once to get each view, and it happens during the app start up not at run time.
+- You get type safety (Means that the compiler validates types when compiling)
+
+
