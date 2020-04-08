@@ -14,3 +14,7 @@ Thanks
 
 07-04-2020 :
 Please add DataBinding Concept to DiceRoller App. Also, Populate data using data-variables and data-class.
+
+08-04-2020
+Develop an app that can add events on the calendar.
+
