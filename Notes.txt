@@ -10,4 +10,25 @@ Benefits:
 - the android system only traverses the view hierarcy only once to get each view, and it happens during the app start up not at run time.
 - You get type safety (Means that the compiler validates types when compiling)
 
+Agenda
+Navigation Drawer
+Navigation Components (Jetpack Components) - Navigation Graphs.
+
+Navigation Drawer
+
+Components Required:
+- DrawerLayout
+- NavigationView
+- AppBarLayout
+- ToolBar
+
+
+
+
+
+
+
+
+
+
 
