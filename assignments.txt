@@ -18,3 +18,9 @@ Please add DataBinding Concept to DiceRoller App. Also, Populate data using data
 08-04-2020
 Develop an app that can add events on the calendar.
 
+18-04-2020
+Add the following modules to the current project  - RoomDatabase
+- Update the Data
+- Get the data based on the id
+
+
