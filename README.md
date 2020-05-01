@@ -12,7 +12,7 @@ First of all, create an Android Studio project and add a dependency for Kotlin a
 We also need to add the Data Binding dependency and the ones of Kotlin to the build.gradle file of our app.
 //Notice that I made the compiler version a variable in the project level build gradle so it can be managed from a single place. That’s all the configuration we need to start using Data Binding with Kotlin.
 Now for Kotlin and Data Binding to work together, add a Kotlin Model Class. This model class is going to bind your layout with your Kotlin activity class.
-##### activity_main:-
+##### activity_main:
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <layout
@@ -48,7 +48,7 @@ Now for Kotlin and Data Binding to work together, add a Kotlin Model Class. This
 </LinearLayout>
 </layout>
 ```
-##### MainActivity:-
+##### MainActivity:
 ```kotlin
 package com.example.databinding
 
@@ -84,11 +84,11 @@ lateinit var dataBinding:ActivityMainBinding
 data class Name(var names:String = " ")
 ```
 
-##### Output:-
+##### Output:
 
-##### Another Example:-
+##### Another Example:
 
-##### Using DataBinding-
+##### Using DataBinding:
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -133,7 +133,7 @@ data class Name(var names:String = " ")
 </layout>
 ```
 
-##### MainActivity:-
+##### MainActivity:
 ```kotlin
 package com.example.databinding2
 
